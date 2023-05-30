@@ -1,0 +1,132 @@
+
+#tan{
+    margin-left: 330px;
+    position: absolute;
+    top: 60px;
+    color:rgb(19, 114, 118);
+    font-size: 20px;
+}
+a{
+    margin-left: 30px;
+    color: black;
+    
+}
+#ho{
+    margin-left: 660px;
+    position: absolute;
+    top: 65px;
+    font-size: 12px;
+    text-decoration: none;
+    
+}
+#ab{
+    margin-left: 710px;
+    position: absolute;
+    top: 65px;
+    font-size: 12px;
+    text-decoration: none;
+    
+}
+#wh{
+    margin-left: 785px;
+    position: absolute;
+    top: 65px;
+    font-size: 12px;
+    text-decoration: none;
+    
+}
+#pr{
+    margin-left: 877px;
+    position: absolute;
+    top: 65px;
+    font-size: 12px;
+    text-decoration: none;
+    
+}
+#bl{
+    margin-left:950px;
+    position: absolute;
+    top: 65px;
+    font-size: 12px;
+    text-decoration: none;
+    
+}
+#co{
+    margin-left: 1000px;
+    position: absolute;
+    top: 65px;
+    font-size: 12px;
+    text-decoration: none;
+    
+}
+.firstbox{
+    border: 1px solid black;
+    width: 90px;
+    height: 80px;
+    margin-left: 200px;
+    margin-top: 30px;
+    background-color:rgb(19, 114, 118) ;
+    
+}
+.s{
+    border: 1px solid black;
+    width: 40px;
+    height:4px;
+    margin: auto;
+    margin-top: 17px;
+    background-color: white;
+    border-color: white;
+    border-radius: 3px;
+}
+.v{
+    border: 1px solid black;
+    width: 6px;
+    height: 40px;
+    margin: auto;
+    background-color: white;
+    border-color: white;
+    border-radius: 2px;
+    
+
+}
+.secondbox{
+    border: 1px solid black;
+    width: 800px;
+    height: 300px;
+    margin-top: 0px;
+    margin-left: 291px;
+    background-color: rgba(232, 229, 229, 0.292);
+    border-color: rgba(169, 169, 169, 0.184);
+    
+}
+.thirdbox{
+    border: 1px solid black;
+    width: 870px;
+    height: 250px;
+    margin-top: -250px;
+    margin-left: 200px;
+    border-color: rgb(241, 241, 29);
+    background-color: rgb(241, 241, 29);
+    
+}
+
+.fourthbox{
+    border: 1px solid black;
+    width: 300px;
+    height: 200px;
+    margin-left: 810px;
+    margin-top:-201px; 
+    background-color: white;
+    border-color: white;
+}
+h1{
+    font-size: 26px;
+    margin-left: 30px;
+    color: rgb(59, 173, 177);
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    font-size: 13px;
+    margin-left: 30px;
+    color: rgb(113, 110, 110);
+}
